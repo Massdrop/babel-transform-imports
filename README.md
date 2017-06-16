@@ -1,5 +1,9 @@
 # babel-plugin-transform-imports
 
+NOTE: This is a fork by Massdrop of https://bitbucket.org/amctheatres/babel-transform-imports
+
+It is only published to an internal NPM registry, in order to use the changes from this PR: https://bitbucket.org/amctheatres/babel-transform-imports/pull-requests/5
+
 Transforms member style imports:
 
 ```javascript
